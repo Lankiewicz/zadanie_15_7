@@ -1,5 +1,5 @@
 class Stopwatch {
-	constructor(display) => {
+	constructor(display) {
 		this.running = false;
 		this.display = display;
 		this.reset();
